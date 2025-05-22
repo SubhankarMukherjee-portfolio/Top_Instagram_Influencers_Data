@@ -2,7 +2,7 @@
 This project analyzes top Instagram influencers using SQL by cleaning and transforming messy data into structured numeric formats. Key metrics like followers, engagement rate, and average likes are used to generate 15+ insights across countries and performance indicators. The goal is to identify high-impact influencers for strategic marketing decisions.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Top_Instagram_Influencers_Data/blob/main/top_insta_influencers_data.csv"
 
 ## Project Objective
 1) To clean and preprocess the influencer dataset for analytical readiness.
@@ -16,7 +16,7 @@ Dataset = ""
 
 
 ## SQL File (MySQL)
-SQL File = ""
+SQL File = "https://github.com/SubhankarMukherjee-portfolio/Top_Instagram_Influencers_Data/blob/main/Top%20Instagram.sql"
 
 ## Questions solved
 1) Top Influencers by Followers
